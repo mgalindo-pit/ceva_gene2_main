@@ -4,6 +4,8 @@
 client: CEVA Logistics
 project: Gen-e2 POC
 summary: AI-Enhanced Software Engineering Methodology POC for accelerating product evolution and automating software development lifecycle
+from: 08/09/2025
+to: 28/11/2025
 ---
 
 # CEVA Gen-e2 POC
