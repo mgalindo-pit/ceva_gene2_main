@@ -3,7 +3,27 @@ title:  Product Management team for MoveIT Compound - AI Pilot
 date:   2025-09-11
 type: transcript
 tags: [meeting, business, po, compound, poc]
+team: Integration
+participants: [Galindo Rodriguez, Miguel; Widman, Mauro; Cambra, Troy; Iglesias, Luciano; SAOUZANET, Emmanuel; Moron Vidal, Elena]
 ---
+
+## Summary
+The session focused on reviewing mapper examples and discussing the upcoming migration to a new framework (TIPCO). Participants clarified the current state of the repositories, the relevance of existing examples, and the need to align on what should be shared moving forward. Concerns were raised about not investing effort in obsolete models and ensuring that future work is aligned with the migration strategy. The team agreed to coordinate internally before sharing further information or project access, and to clarify expectations for the transition.
+
+
+## Agreements
+- The team agreed to coordinate internally before sharing further information or project access, and to clarify expectations for the transition.
+- Concerns were raised about not investing effort in obsolete models and ensuring that future work is aligned with the migration strategy.
+- The need to clarify the current state of the repositories and the relevance of existing examples was acknowledged.
+
+## Action Items
+- [ ] Troy will coordinate with Elena and the integration team to review what projects and examples are relevant to share, ensuring alignment with the migration to TIPCO.
+- [ ] Emmanuel will organize a meeting with a developer to explain the structure of message flows and ESQL properties in more detail.
+- [ ] The team will schedule follow-up meetings to clarify specific parts of the process and next steps for the transition.
+
+
+---
+
 
 Galindo Rodriguez, Miguel
 0 minutes 9 seconds0:09

@@ -3,6 +3,22 @@ title:  Product Management team for MoveIT Compound - AI Pilot
 date:   2025-09-11
 type: transcript
 tags: [meeting, business, po, compound, poc]
+team: Compound
+participants: [Widman, Mauro; BOUZON, Valerie; Galindo Rodriguez, Miguel; Cambra, Troy; Iglesias, Luciano; SAOUZANET, Emmanuel; Moron Vidal, Elena]
+---
+
+## Summary
+The session focused on understanding the current process of storing and delivering cars from the compound to dealers, as explained by Valerie Bouzon. The need for evolution in the services and requirements was discussed. The importance of accessing relevant documentation (via SharePoint or email) was highlighted to better understand the business process. Valerie informed the team about her upcoming vacation and mentioned that Christophe, Malek, and Vincent Coquillard would be available to support the project during her absence. Mauro and Miguel agreed to review the information and coordinate next steps, including scheduling follow-up meetings and sharing the list of scheduled sessions with the team.
+
+## Agreements
+- Valerie will be on vacation starting September 19th, and Christophe, Malek, and Vincent Coquillard will be available to support the project during her absence.
+- The importance of accessing relevant documentation (via SharePoint or email) was acknowledged.
+- The list of scheduled sessions will be shared with Valerie and the team.
+
+## Action Items
+- [ ] Valerie to try to provide SharePoint access to Miguel and Mauro, or alternatively send the required documentation by email.
+- [ ] Mauro and Miguel to review the information and coordinate internally to define next steps and schedule follow-up meetings.
+
 ---
 
 BOUZON, Valerie
